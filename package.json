@@ -19,6 +19,7 @@
   "homepage": "https://github.com/C3SC0-V4113/INVESTIGACION-APLICADA-LIC-3#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "express-handlebars": "^5.2.0",
     "nodemon": "^2.0.6"
   }
 }
