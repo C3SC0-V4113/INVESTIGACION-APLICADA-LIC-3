@@ -8,4 +8,8 @@ indexCtrl.renderPC=(request,response)=>{
     response.render("os")
 }
 
+indexCtrl.renderPanas=(request,response)=>{
+    response.render("grupo")
+}
+
 module. exports=indexCtrl;
